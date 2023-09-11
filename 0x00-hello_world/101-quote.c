@@ -1,7 +1,8 @@
 #include <unistd.h>
 /**
-*main-Entrypoint 
-*Return 0(sucess)
+*main-Entrypoint
+*
+*Return: 0(sucess)
 */
 int main(void)
 {
